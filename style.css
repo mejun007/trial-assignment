@@ -133,11 +133,7 @@ section{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-    
- footer{
-     text-align: center;
-     font-size: 12px;
- }   
+  
  .service-header{
      text-align: center;
  }
@@ -172,3 +168,8 @@ section{
     height:100%;
     width: 100%;
 }
+    
+footer{
+    text-align: center;
+    font-size: 12px;
+} 
